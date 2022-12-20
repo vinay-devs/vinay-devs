@@ -6,7 +6,7 @@
 ### <div align="center">I'm Vinay Dev S, a MERN stack developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [eyePointer]([https://github.com/vinay-devs/toDoList](https://github.com/vinay-devs/eyePointer))  
+- 🔭 I’m currently working on [eyePointer](https://github.com/vinay-devs/eyePointer)  
   
 
 - 🌱 I’m currently focusing on MERN stack Projects  
