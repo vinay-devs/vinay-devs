@@ -86,7 +86,7 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vinay-devs&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vinay-devs)](https://git.io/streak-stats)
+(https://streak-stats.demolab.com/?user=vinay-devs)](https://git.io/streak-stats)
 
 <br/>  
 
