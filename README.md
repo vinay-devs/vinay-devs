@@ -86,11 +86,11 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vinay-devs&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-[![GitHub Streak](https://streak-stats.demolab.com?user=vinay-devs&theme=dark)](https://git.io/streak-stats)
+
 
 <br/>  
 
-  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kattni)
 
 <br/>  
 
